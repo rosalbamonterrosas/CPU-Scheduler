@@ -9,8 +9,8 @@ Simulation of FCFS, SJF, and MLFQ CPU scheduling algorithms.
 *Indication when a process has completed its total execution    
 
 ## Results printed at the end of simulation
-  *Total time needed to complete all 8 processes
-  *CPU utilization
-  *Waiting times for each process and the average waiting time for all processes (Tw)
-  *Turnaround time for each process and the average turnaround time (Ttr)
-  *Response time for each process and the average response time (Tr)
+*Total time needed to complete all 8 processes  
+*CPU utilization  
+*Waiting times for each process and the average waiting time for all processes (Tw)  
+*Turnaround time for each process and the average turnaround time (Ttr)  
+*Response time for each process and the average response time (Tr)  
