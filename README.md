@@ -18,4 +18,4 @@ Simulation of FCFS, SJF, and MLFQ CPU scheduling algorithms.
 ## To run the CPU Scheduler, follow the steps below:
 * Clone the repo: `https://github.com/rosalbamonterrosas/CPU-Scheduler.git`
 * `cd CPU-Scheduler`
-* Run the game: `python3 cpu_scheduler.py`
+* Run the CPU Scheduler: `python3 cpu_scheduler.py`
