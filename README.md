@@ -16,6 +16,6 @@ Simulation of FCFS, SJF, and MLFQ CPU scheduling algorithms.
 * Response time for each process and the average response time (Tr)  
 
 ## To run the CPU Scheduler, follow the steps below:
-* Clone the repo: `git clone https://github.com/rosalbamonterrosas/alien-game.git`
-* `cd alien-game`
-* Run the game: `python3 alien_attack.py`
+* Clone the repo: `https://github.com/rosalbamonterrosas/CPU-Scheduler.git`
+* `cd CPU-Scheduler`
+* Run the game: `python3 cpu_scheduler.py`
